@@ -7,8 +7,7 @@
 This is my passion $
 
 ```cs
-return $"{((DateTime)Obj).Year}{((DateTime)Obj).AddMonths(-1).Month}{((DateTime)Obj).Day}";
-}
+return $"{((DateTime)Obj).Year}{((DateTime)Obj).AddMonths(-1).Month}{((DateTime)Obj).Day}";}
 ```
 
 Following the most people possible! if you want to follow back, it's a yess!! :)
