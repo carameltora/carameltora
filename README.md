@@ -4,7 +4,7 @@
 - 💞️ I'm looking to share others code. 
 - 📫 You can reach me on [Discord](TakaoJS#0404). 
 
-This is my life motto:
+This is my passion $
 
 ```cs
 return $"{((DateTime)Obj).Year}{((DateTime)Obj).AddMonths(-1).Month}{((DateTime)Obj).Day}";
